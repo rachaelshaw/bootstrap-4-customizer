@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-4-customizer",
+  "keywords": [],
+  "scripts": {
+    "compile": "node-sass scss/custom.scss css/bootstrap.css"
+  },
+  "license": "MIT"
+}
