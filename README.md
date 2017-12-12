@@ -3,7 +3,7 @@ A quick way to compile custom-themed [Bootstrap 4](http://getbootstrap.com/) css
 
 ## To use:
 
-#### 1. Install `node-sass`:
+#### 1. Install the [`node-sass`](https://www.npmjs.com/package/node-sass) library:
 
 ```
 $ npm install -g node-sass
