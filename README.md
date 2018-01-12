@@ -17,7 +17,7 @@ Clone this repo, then add your variable overrides to `scss/custom.scss` to updat
 > Note: the scss included here is from Bootstrap v4.0.0-beta.2, so if you need to compile from a different version, just replace the contents of the folder with the contents of `scss/bootstrap-scss` from the proper [release](https://github.com/twbs/bootstrap/releases).
 
 #### 3. Build:
-`cd` into this project's directory on the command line, then run:
+On the command line, `cd` into this project's directory, then run:
 
 ```
 $ npm run compile
